@@ -18,5 +18,5 @@ A command-line interface (CLI) application implemented in Python that calculates
 ## How to Run
 
 1. Clone the repository:
-   ```bash
+```bash
 git clone [https://github.com/David-Perea/set-operations-python.git](https://github.com/David-Perea/set-operations-python.git)
